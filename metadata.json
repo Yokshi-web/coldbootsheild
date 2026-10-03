@@ -1,0 +1,7 @@
+{
+  "name": "ColdBootShield",
+  "description": "AI-powered serverless cold-start latency prediction and pre-warming optimization system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
